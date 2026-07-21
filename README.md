@@ -125,7 +125,7 @@ Focuses on operational efficiency by monitoring:
 - Express shipping recorded the highest on-time delivery performance.
 - GlobalTrade Ng and Afroparts Ltd were the poorest-performing suppliers.
 - Inventory levels were significantly higher than customer demand.
-- ![supply](image/globalmart supply.png)
+ ![supply](image/globalmart supply.PNG) 
   
 
 ---
@@ -153,7 +153,7 @@ Focuses on operational efficiency by monitoring:
 - Overstocking was observed across several product categories.
 - Inventory levels were not aligned with actual demand.
 - Health & Beauty recorded the highest damaged goods rate despite being the most profitable category.
-- ![profit](image/globalmart profit.PNG)
+![profit](image/globalmart profit.PNG)
 
 ---
 
